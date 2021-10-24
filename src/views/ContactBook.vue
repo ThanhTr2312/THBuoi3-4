@@ -51,10 +51,7 @@
         </div>
     </div>
 </template>
-<!-- https://cumsum.wordpress.com/2020/08/08/vue3-property-xxx-was-accessed-during-render-but-is-not-defined-on-instance/
 
-
--->
 <script>
 import ContactDetails from "../components/ContactDetails";
 import ContactService from "../services/contact.service";
